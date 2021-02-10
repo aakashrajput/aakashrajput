@@ -41,8 +41,12 @@ Hi, I'm Aakash Singh, a Web Developer 🚀 from India, currently, I'm one of the
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
+
 
 
 
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=aakashrajput&show_icons=true&hide_border=true)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aakashrajput&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashrajput&theme=tokyonight&hide=batchfile">
 
