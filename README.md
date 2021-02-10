@@ -46,6 +46,6 @@ Hi, I'm Aakash Singh, a Web Developer 🚀 from India, currently, I'm one of the
 
 
 <div><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
-<img  style="margin-top: 20px;" align="left" src="https://github-readme-stats.vercel.app/api?username=aakashrajput&show_icons=true&hide_border=true&theme=tokyonight">
-<img style="margin-top: -20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashrajput&theme=tokyonight&hide=batchfile">
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=aakashrajput&show_icons=true&hide_border=true&theme=tokyonight">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashrajput&theme=tokyonight&hide=batchfile">
 
