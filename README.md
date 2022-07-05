@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm Aakash Singh, a Web Developer 🚀 from India, currently, I'm one of the Developer Team Member of Startup Sainox Technologies 🙍🏽‍♂️ [@sainoxtech](https://github.com/sainoxtech), Owner of the Blog Website 👨🏽‍💻 [@AcquireHowTo](https://www.acquirehowto.com/), . Beside's programming, I enjoy playing football and Singing.
+Hi, I'm Aakash Singh, a Software Developer 🚀 from India, currently, I'm one of the Developer Team Member of Stavtar Solutions 🙍🏽‍♂️ [@stavtar](https://stavtar.com), Owner of the Blog Website 👨🏽‍💻 [@AcquireHowTo](https://www.acquirehowto.com/), . Beside's programming, I enjoy playing football and Singing.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
