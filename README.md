@@ -67,7 +67,9 @@ I combine rigorous software engineering fundamentals (clean architecture, testin
 ### Backend & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,python,nodejs&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c#&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,python,nodejs&theme=dark"/>
+
 </p>
 
 ### Frontend & UI
@@ -285,6 +287,48 @@ Open To:
 
 ---
 
+## GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=aakashrajput&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashrajput&theme=tokyonight&border_radius=10&hide_border=false" />
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashrajput&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aakashrajput&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashrajput&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
 ## Connect & Collaborate
 
 <div align="center">
@@ -311,7 +355,7 @@ Open To:
 
 <div align="center">
 
-*Building at the intersection of AI, full-stack engineering, and distributed systems. Open to relocation — Ireland / Finland.*
+*Building at the intersection of AI, full-stack engineering, and distributed systems. Open to relocation*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f3460&height=120&section=footer" width="100%"/>
 
